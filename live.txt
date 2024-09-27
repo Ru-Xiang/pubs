@@ -435,52 +435,29 @@ CCTV17.,http://220.202.98.51:14901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1
 黑龙江卫视,http://222.134.245.16:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://14.204.12.226:9901/tsfile/live/0138_2.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://118.81.98.130:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-其他频道,#genre#
-
 CETV,http://220.202.98.51:14901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV2,http://111.225.113.77:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-
 CGTN,http://182.127.42.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://59.173.183.242:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+其他频道,#genre#
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-
-优优宝贝,http://220.202.98.51:14901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://220.202.98.51:14901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://113.218.189.23:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://14.204.12.226:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-优漫卡通,http://124.94.193.136:9902/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://123.189.36.7:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://123.189.36.155:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-佳嘉卡通,http://123.189.36.7:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-佳嘉卡通,http://123.189.36.155:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-佳嘉卡通,http://14.204.12.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-
-先锋兵羽,http://220.202.98.51:14901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-
-卡酷动漫,http://123.189.36.155:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://113.218.189.23:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://14.204.12.226:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-哈哈炫动,http://60.12.183.46:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 家庭影院,http://124.94.193.136:9902/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 家庭影院,http://123.189.36.7:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 家庭影院,http://123.189.36.155:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+山东影视,http://58.57.21.166:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-山东影视,http://58.57.21.166:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东教育,http://111.225.113.77:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-平潭综合,http://117.27.190.42:9998/tsfile/live/23299_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://183.237.246.14:32/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://120.238.87.243:32/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-新动漫,http://123.189.36.7:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-新动漫,http://123.189.36.155:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+先锋兵羽,http://220.202.98.51:14901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 梨园,http://123.160.175.63:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-湖南金鹰卡通,http://220.202.98.51:14901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-炫动卡通,http://123.189.36.155:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://124.94.193.136:9902/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://123.189.36.7:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 电影,http://123.189.36.155:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -491,10 +468,7 @@ CHC电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1
 第一剧场,http://123.189.36.7:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://123.189.36.155:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-
-辽宁教育青少,http://124.94.193.136:9902/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
+金鹰卡通,http://220.202.98.51:14901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://111.225.113.77:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://14.204.12.226:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -509,7 +483,23 @@ CHC电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1
 风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://123.189.36.7:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://123.189.36.155:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
- 
+卡酷动漫,http://123.189.36.155:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://113.218.189.23:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://14.204.12.226:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+哈哈炫动,http://60.12.183.46:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+哈哈炫动,http://123.189.36.155:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+优优宝贝,http://220.202.98.51:14901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://220.202.98.51:14901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://113.218.189.23:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://14.204.12.226:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+优漫卡通,http://124.94.193.136:9902/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://123.189.36.7:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://123.189.36.155:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+佳嘉卡通,http://123.189.36.7:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+佳嘉卡通,http://123.189.36.155:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+佳嘉卡通,http://14.204.12.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0 
+新动漫,http://123.189.36.7:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+新动漫,http://123.189.36.155:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://assets.livednow.com/logo/五星体育.png" group-title="卫视IPV4",五星体育
